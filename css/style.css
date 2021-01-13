@@ -1,0 +1,42 @@
+.logo{
+    width: 300px;
+}
+.top-banner-img{
+    width: 550px;
+}
+body h1{
+    font-family: 'Bebas Neue', cursive;
+}
+.top-banner-text{
+    font-size: 80px;
+}
+.product-card{
+    border: 0;
+    padding: 10px;
+    border-radius: 20px;
+}
+.product-card img{
+    background-color: #F1F1F1; 
+    border-radius: 20px;"
+}
+.buy-now-btn{
+    padding: 10px 25px;
+   border-radius: 10px; 
+   background-color: #A4BC46;
+}
+.last-section-box{
+    border: 0;
+    border-radius: 20px;
+}
+h5{
+    font-weight: 900;
+}
+p{
+    font-weight: 500;
+}
+.orange-text-color{
+    color: #FABE4C;
+}
+.blue-text-color{
+    color: #363958;
+}
