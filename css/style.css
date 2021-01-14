@@ -1,9 +1,12 @@
 .logo{
-    width: 300px;
+    width: 280px;
 }
 .top-banner-img{
     width: 550px;
 }
+/* .navbar-menu{
+    margin-left: 350px;
+} */
 body h1{
     font-family: 'Bebas Neue', cursive;
 }
@@ -17,14 +20,14 @@ body h1{
 }
 .product-card img{
     background-color: #F1F1F1; 
-    border-radius: 20px;"
+    border-radius: 20px;
 }
 .buy-now-btn{
     padding: 10px 25px;
    border-radius: 10px; 
    background-color: #A4BC46;
 }
-.last-section-box{
+.last-section-box, .review-section{
     border: 0;
     border-radius: 20px;
 }
@@ -39,4 +42,16 @@ p{
 }
 .blue-text-color{
     color: #363958;
+}
+.icon-color{
+    color: tomato;
+}
+.subscribe-section{
+    height: 300px;
+    border-radius: 10px;
+    background-color: #FABE4C;
+}
+.subscribe-section h5{
+    color: white;
+    font-weight: 500;
 }
